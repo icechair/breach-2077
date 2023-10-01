@@ -16,7 +16,7 @@ const config = {
       strict: true,
     }),
     paths: {
-      //base: dev ? "" : "/2077-breach",
+      base: dev ? "" : "/breach-2077",
     },
   },
 };
